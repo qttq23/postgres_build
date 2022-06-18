@@ -9,4 +9,15 @@
 !libpqxx-7.7.3_win32_x64_release
 !libpqxx-7.7.3_win32_x64_release/**
 
+!postgresql-14.4-1-windows-x64-binaries
+!postgresql-14.4-1-windows-x64-binaries/pgsql
+
+!postgresql-14.4-1-windows-x64-binaries/pgsql/bin
+!postgresql-14.4-1-windows-x64-binaries/pgsql/bin/**
+
+!postgresql-14.4-1-windows-x64-binaries/pgsql/include
+!postgresql-14.4-1-windows-x64-binaries/pgsql/include/**
+
+!postgresql-14.4-1-windows-x64-binaries/pgsql/lib
+!postgresql-14.4-1-windows-x64-binaries/pgsql/lib/**
 
