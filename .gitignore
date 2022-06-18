@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!readme.md
+
+# include a folder
+!libpqxx-7.7.3_win32_x64_release
+!libpqxx-7.7.3_win32_x64_release/**
+
+
